@@ -1,0 +1,11 @@
+!
+! Title: Allow List
+! Description: Mole's Allow List
+! Version: 1.0.0
+! Homepage: 
+! Last modified: 2025-04-10
+!
+! Compiled by Mole
+!
+||playit.gg^
+||jssdks.mparticle.com^
