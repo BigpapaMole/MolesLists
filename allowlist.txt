@@ -7,7 +7,7 @@
 !
 ! Compiled by Mole
 !
-playit.gg^
-jssdks.mparticle.com^
-iotapi.cyberpower.com^
-api.playit.gg^
+playit.gg
+jssdks.mparticle.com
+iotapi.cyberpower.com
+api.playit.gg
